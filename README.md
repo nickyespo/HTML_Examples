@@ -1,2 +1,2 @@
 # HTML_Examples
-This repo meant to demostrate some ideas about HTML 
+This repo meant to demostrate some basic ideas about HTML 
